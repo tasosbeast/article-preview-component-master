@@ -75,18 +75,18 @@ Beyond the basic requirements, this solution includes:
 
 #### Desktop View
 
-![Desktop Default State](./screenshots/desktop-solution.jpg)
+![Desktop Default State](./screenshots/Screenshot-1.png)
 _Desktop view (1440px) - Default state with hover effects_
 
-![Desktop Active State](./screenshots/desktop-active-solution.jpg)  
+![Desktop Active State](./screenshots/Screenshot-1-active.png)  
 _Desktop view (1440px) - Share popup active state_
 
 #### Mobile View
 
-![Mobile Default State](./screenshots/mobile-solution.jpg)
+![Mobile Default State](./screenshots/screenshot-2.png)
 _Mobile view (375px) - Default state_
 
-![Mobile Active State](./screenshots/mobile-active-solution.jpg)
+![Mobile Active State](./screenshots/screenshot-2-active.png)
 _Mobile view (375px) - Share popup covering bottom section_
 
 #### Comparison with Original Design
