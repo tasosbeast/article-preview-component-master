@@ -71,11 +71,31 @@ Beyond the basic requirements, this solution includes:
 - Clean, maintainable code structure
 - Error handling and graceful fallbacks
 
-### Screenshot
+### Screenshots
 
-![Article Preview Component - Desktop View](./design/desktop-preview.jpg)
+#### Desktop View
 
-_Desktop view showing the article card with hover effects and share popup_
+![Desktop Default State](./screenshots/desktop-solution.jpg)
+_Desktop view (1440px) - Default state with hover effects_
+
+![Desktop Active State](./screenshots/desktop-active-solution.jpg)  
+_Desktop view (1440px) - Share popup active state_
+
+#### Mobile View
+
+![Mobile Default State](./screenshots/mobile-solution.jpg)
+_Mobile view (375px) - Default state_
+
+![Mobile Active State](./screenshots/mobile-active-solution.jpg)
+_Mobile view (375px) - Share popup covering bottom section_
+
+#### Comparison with Original Design
+
+- ✅ **Enhanced beyond requirements** with real social sharing
+- ✅ **Added smooth animations** and micro-interactions
+- ✅ **Comprehensive accessibility** with keyboard navigation
+- ✅ **Toast notifications** for user feedback
+- ✅ **Progressive enhancement** that works without JavaScript
 
 ### Links
 
