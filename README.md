@@ -95,6 +95,35 @@ _Desktop view showing the article card with hover effects and share popup_
 - **CSS Animations** with hardware acceleration
 - **Web APIs**: Clipboard API, Share API, Vibration API
 
+### File Structure
+
+```
+article-preview-component/
+├── index.html          # Main HTML structure
+├── styles.css          # All CSS styles and animations
+├── script.js           # JavaScript functionality
+├── images/
+│   ├── avatar-michelle.jpg
+│   ├── drawers.jpg
+│   ├── favicon-32x32.png
+│   ├── icon-facebook.svg
+│   ├── icon-pinterest.svg
+│   ├── icon-share.svg
+│   └── icon-twitter.svg
+└── design/
+    ├── desktop-active-state.jpg
+    ├── desktop-design.jpg
+    ├── desktop-preview.jpg
+    ├── mobile-active-state.jpg
+    └── mobile-design.jpg
+```
+
+The project follows a clean separation of concerns with:
+
+- **HTML**: Semantic structure with accessibility features
+- **CSS**: Modular styles with custom properties and responsive design
+- **JavaScript**: ES6+ class-based architecture for maintainable code
+
 ### What I learned
 
 This project was an excellent opportunity to go beyond basic requirements and implement professional-level features:
